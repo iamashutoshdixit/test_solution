@@ -18,7 +18,7 @@ def cooldown(arr,c):
             
         
     return res
-
+print("ashutsiohgs")
 arr=[1,1,1,1,2,3,5,5,5,5,1]
 c = 3
 print(cooldown(arr,c))
